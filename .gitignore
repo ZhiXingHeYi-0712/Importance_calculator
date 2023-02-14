@@ -1,0 +1,11 @@
+data/
+data_clip/
+result/
+*.npy
+__pycache__/
+*.pyc
+*.zip
+.idea/
+*.tif
+*.tif.aux.xml
+*.tif.ovr
