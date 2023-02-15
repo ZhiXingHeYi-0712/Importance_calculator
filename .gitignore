@@ -1,6 +1,3 @@
-data/
-data_clip/
-result/
 *.npy
 __pycache__/
 *.pyc
@@ -9,3 +6,5 @@ __pycache__/
 *.tif
 *.tif.aux.xml
 *.tif.ovr
+
+!co2.npy
